@@ -30,3 +30,9 @@
       width: 200px;
     }
   }
+  .text-bg-dark{
+    background-color: RGB(30,45,59)!important;
+  }
+  .table-dark{
+    --bs-table-bg: RGB(30,45,59)!important;
+  }
